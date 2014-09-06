@@ -4,19 +4,17 @@ use 5.006;
 use strict;
 use warnings FATAL => 'all';
 
-die 'just to test';
-
 =head1 NAME
 
 Acme::MyFirstModule::HEEB - The great new Acme::MyFirstModule::HEEB!
 
 =head1 VERSION
 
-Version 0.01.01
+Version 0.01.02
 
 =cut
 
-our $VERSION = '0.01.01';
+our $VERSION = '0.01.02';
 
 
 =head1 SYNOPSIS
